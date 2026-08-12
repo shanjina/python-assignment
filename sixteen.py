@@ -1,3 +1,4 @@
+
 class Student:
     def __init__(self, name, m1, m2, m3, m4, m5):
         self.name = name
