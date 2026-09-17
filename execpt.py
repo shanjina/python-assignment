@@ -8,4 +8,4 @@ def check_age(age):
 try:
     check_age(-5)
 except MyCustomError as e:
-    print(f"Caught: {e}")8
+    print(f"Caught: {e}")
